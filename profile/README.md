@@ -129,7 +129,7 @@ Once that's finished, you can view your vendor tree at vendor/motorola/bangkk
 
 Alternatively, you can just clone the already prepared and maintained vendor tree from [here](https://gitlab.com/Motorola-SM6375-Devs/)
 ```
-git clone https://github.com/Moto-G82-5G-RHODEP-by-SM6375-Devs/proprietary_vendor_motorola_rhodep.git vendor/motorola/bangkk
+git clone https://github.com/Moto-G82-5G-RHODEP-by-SM6375-Devs/proprietary_vendor_motorola_rhodep.git vendor/motorola/rhodep
 ```
 
 ```
