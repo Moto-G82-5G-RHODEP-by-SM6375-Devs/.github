@@ -96,9 +96,13 @@ Sync the Device's device specific tree, common tree and kernel tree.
 Eg:
 ```
 git clone https://github.com/Moto-G82-5G-RHODEP-by-SM6375-Devs/android_device_motorola_rhodep.git device/motorola/rhodep
+```
 
+```
 git clone https://github.com/Moto-G82-5G-RHODEP-by-SM6375-Devs/android_device_motorola_sm6375-common.git device/motorola/sm6375-common
+```
 
+```
 git clone https://github.com/Moto-G82-5G-RHODEP-by-SM6375-Devs/android_kernel_motorola_sm6375.git kernel/motorola/sm6375
 ```
 You'll have to clone hardware/motorola manually since we build some HALs based off of it.
