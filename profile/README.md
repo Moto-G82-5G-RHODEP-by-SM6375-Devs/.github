@@ -1,4 +1,4 @@
-## Welcome to Moto G82 5G | By SM6375-Devs organization (Discontinued)
+## Welcome to Moto G82 5G | By SM6375-Devs organization
 
 This organization contains device specific & common sources for various SM6375 based Motorola devices.
 
